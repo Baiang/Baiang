@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+hi, i'm wiwi, a passionate self-taught full stack web developer and a passionate software engineer from China. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
 <!--
 **Baiang/Baiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +20,3 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Baiang&show_icons=true)
-
